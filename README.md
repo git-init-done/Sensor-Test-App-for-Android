@@ -58,3 +58,4 @@ Perfect for:
 - Developers learning Android’s Sensor Framework  
 - Students building interactive UI with Compose  
 - Anyone interested in device-aware Android development
+- A sleek and functional UI for anyone checking the copacetic status of onboard sensors
