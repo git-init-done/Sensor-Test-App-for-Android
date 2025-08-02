@@ -20,6 +20,13 @@ This isn't your average utility app—it's a polished demonstration of reactive 
 - Responsive layout optimized for modern Android devices  
 - Clean, structured Kotlin code with Jetpack Compose best practices
 
+## 📷 Photo of the UI
+<img width="265" height="577" alt="Screenshot 2025-08-02 at 4 45 12 PM" src="https://github.com/user-attachments/assets/373fc82b-acc3-4cc4-94b9-20ce192ff4a4" />
+
+## 📷 Demo Videos
+
+🎥 [📱 App Running on Android Device] (https://drive.google.com/file/d/1tFxzBeR8D0neNta8fj3sayDY68brsKH4/view?usp=sharing)
+
 ## 🧠 Technical Stack
 
 - **Language:** Kotlin  
